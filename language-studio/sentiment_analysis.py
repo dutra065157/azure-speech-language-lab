@@ -1,8 +1,8 @@
 from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
 
-key = "SUA_CHAVE_AZURE"
-endpoint = "SEU_ENDPOINT_AZURE"
+key = "F0EZ7qWYWK5bsLs4cifRdvY1k9bIwBtGT0za3IJ9Fy4qyEgNUUA4JQQJ99BFACYeBjFXJ3w3AAAaACOGHTnI"
+endpoint = "eastus"
 
 def analyze_sentiment(text):
     client = TextAnalyticsClient(endpoint=endpoint, credential=AzureKeyCredential(key))
