@@ -1,7 +1,7 @@
 # Exemplo simplificado (speech_to_text.py)
 import azure.cognitiveservices.speech as speechsdk
 
-speech_key = "SUA_CHAVE"
+speech_key = "019022f8c2b5482e81867a81e419964b"
 service_region = "eastus"
 
 def transcrever_audio():
