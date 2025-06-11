@@ -1,5 +1,3 @@
-# azure-speech-language-lab
-
 # 🎤 Projeto Azure AI: Análise de Fala e Sentimentos
 
 ## 🔍 Visão Geral
